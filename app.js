@@ -19,6 +19,8 @@
 //         i++;
 //     }
 // }
+// printEven([1, 2, 3, 4, 5, 6]); 
+
 // 3. Masala: countA
 
 // function countA(str) {
@@ -31,6 +33,8 @@
 //     }
 //     return count;
 // }
+// console.log(countA("salom"));
+
 // 4. Masala: sumArray
 
 // function sumArray(arr) {
@@ -41,6 +45,9 @@
 //     }
 //     return sum;
 // }
+// let result = sumArray([1, 2, 3, 4, 5]);
+// console.log(result); 
+
 // 5. Masala: reverseText
 
 // function reverseText(str) {
@@ -52,6 +59,8 @@
 //     }
 //     return reversed;
 // }
+//console.log(reverseText("hello"));
+
 // 6. Masala: printNegative
 
 // function printNegative(arr) {
@@ -63,6 +72,7 @@
 //         i++;
 //     }
 // }
+// printNegative([-1, 2, -3]);
 // 7. Masala: countChars
 
 // function countChars(str) {
@@ -73,6 +83,8 @@
 //     }
 //     return count;
 // }
+//  console.log( countChars("hello"));
+ 
 // 8. Masala: printOdds
 
 // function printOdds(n) {
@@ -82,6 +94,7 @@
 //         i += 2; // Har safar 2 ga oshiramiz
 //     }
 // }
+// printOdds(5)
 // 9. Masala: findMax
 
 // function findMax(arr) {
@@ -94,6 +107,8 @@
 //     }
 //     return max;
 // }
+// console.log(findMax([1, 9, 3]));
+
 // 10. Masala: countO
 
 // function countO(str) {
@@ -106,6 +121,8 @@
 //     }
 //     return count;
 // }
+// console.log(countO("hello world"));
+
 // 11. Masala: countZeros
 
 // function countZeros(arr) {
@@ -118,6 +135,8 @@
 //     }
 //     return count;
 // }
+// console.log(countZeros([0, 1, 0]));
+
 // 12. Masala: sumPositive
 
 // function sumPositive(arr) {
@@ -130,6 +149,7 @@
 //     }
 //     return sum;
 // }
+// console.log(sumPositive([-1, 2, 3]));
 // 13. Masala: printLowercase
 
 // function printLowercase(str) {
@@ -141,6 +161,8 @@
 //         i++;
 //     }
 // }
+// console.log(printLowercase("Salom"));
+
 // 14. Masala: printOddIndexes
 
 // function printOddIndexes(arr) {
@@ -150,6 +172,8 @@
 //         i += 2; // Har safar 2 ga oshiramiz
 //     }
 // }
+// console.log(printOddIndexes(['a','b','c','d']));
+
 // 15. Masala: replaceE
 
 // function replaceE(str) {
@@ -164,3 +188,4 @@
 //     }
 //     return result;
 // }
+// console.log(replaceE("hello"));
